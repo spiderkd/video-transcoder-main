@@ -34,12 +34,12 @@ export default function Home() {
           disabled. Please check back later.
         </span>
         <a
-          href="https://youtu.be/PvSAJUU2mYU"
+          href="https://medium.com/@yashkd12790/how-i-solved-video-streaming-for-my-lms-with-ffmpeg-and-adaptive-bitrate-streaming-868ad9206c14"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 underline ml-4"
         >
-          Check out the demo video
+          Check out the blog about the main idea behind this project
         </a>
       </div>
       {/* Main content */}
