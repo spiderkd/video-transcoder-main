@@ -8,7 +8,7 @@ import dayjs from "dayjs";
 export default {
   self: asyncErrorHandler(async (req: Request, res: Response) => {
     httpResponse(req, res, EResponseStatusCode.OK, "Hello World", {
-      name: "Mayank Tiwari",
+      name: "kedia",
     });
   }),
 

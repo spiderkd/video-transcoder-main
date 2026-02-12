@@ -13,7 +13,7 @@
     "db:generate": "prisma generate --schema=./src/prisma/schema.prisma",
     "db:push": "npx prisma db push --schema ./src/prisma/schema.prisma"
   },
-  "author": "mayank",
+  "author": "yash",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-ecs": "^3.758.0",
